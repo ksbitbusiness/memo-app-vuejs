@@ -8,3 +8,6 @@ node_modules
 
 # Vue.JS
 public/*
+
+# envroiment
+.env
