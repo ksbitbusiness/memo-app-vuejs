@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+desktop.ini
+
+# npm
+package-lock.json
+node_modules
+
+# Vue.JS
+public/*
